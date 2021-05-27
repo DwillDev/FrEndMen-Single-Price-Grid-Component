@@ -16,7 +16,7 @@ html,body{
     box-shadow:.1rem .5rem 2rem hsl(204, 43%, 83%);
     display: grid;
     grid-template-rows: 1.2fr 1fr 1fr;
-    grid-template-columns: minmax(270px,583px);
+    grid-template-columns: minmax(320px,583px);
     grid-template-areas: "intro"
                          "price"
                          "why";
