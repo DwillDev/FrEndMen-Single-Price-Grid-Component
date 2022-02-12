@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Link](https://naiwilliams.github.io/Single-Price-Grid-Component/)
+- Live Site URL: [Link](https://naiwilliams.github.io/FrEndMen-Single-Price-Grid-Component/)
 
 ## My process
 
